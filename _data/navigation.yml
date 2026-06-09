@@ -10,14 +10,11 @@
 main:
   - title: "Home"
     url: /
-
   - title: "Research / Teaching"
-  url: /research-teaching/
-
+    url: /research-teaching/
   - title: "Mlabri"
-  url: /mlabri/ 
-
-  - title: "Misc"
-  url: /misc/
+    url: /mlabri/
+  - titlte: "Misc"
+    url: /misc/
 
 
