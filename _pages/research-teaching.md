@@ -1,7 +1,7 @@
 ---
 permalink: /research-teaching/
 title: "Research & Teaching"
-author_profile: true
+author_profile: false
 ---
 
 Write about your research and teaching here. This is plain Markdown,
