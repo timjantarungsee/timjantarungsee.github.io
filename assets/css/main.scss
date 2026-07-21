@@ -41,3 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Widen content after removing the sidebar */
+.page {
+  float: none;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
