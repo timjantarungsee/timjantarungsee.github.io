@@ -7,11 +7,11 @@ author_profile: false
 
 Conference Talks: 
 
-Jantarungsee, Tim and Woraprat, Manowang (2026). The Semantics of Ability Ascribing Modals in Thai. Southeast Asian Linguistics Society Annual Meeting. Singapore. June x–x 2026.
+Jantarungsee, Tim and Woraprat, Manowang (2026). The Semantics of Ability Ascribing Modals in Thai. Southeast Asian Linguistics Society Annual Meeting. June 3–5 2026. Nanyang Technological University Singapore.
 
-Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2026) Varieties of Selectional Restrictions: the case of ingestion verbs. Theoretical Linguistics at Keio, Keio University, Tokyo, Japan. March 13–16 2026.
+Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2026) Varieties of Selectional Restrictions: the case of ingestion verbs. Theoretical Linguistics at Keio. March 13–16 2026. Keio University, Tokyo, Japan
 
-Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2025) Selectional restriction in Mlabri ingestion verbs. Triple A 12, Tokyo University of Foregin Studies, Tokyo, Japan. September 10–12 2025.
+Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2025) Selectional restriction in Mlabri ingestion verbs. Triple A. September 10–12 2025. Tokyo University of Foregin Studies, Tokyo, Japan.
 
 Mucha, Anne & Amaechi, Mary & Uegaki, Wataru & Jantarungsee, Tim. 2024. Disjunction with additives. Sinn und Bedeutung 29. 17th-19th September 2024. Consorzio Universitario Mediterraneo Orientale.
 
