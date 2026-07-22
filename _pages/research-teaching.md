@@ -5,32 +5,32 @@ author_profile: false
 ---
 ## Research
 
-Presented stuff: 
+**Presented stuff: **
 
-Jantarungsee, Tim & Manowang, Woraprat (2026). The Semantics of Ability Ascribing Modals in Thai. Southeast Asian Linguistics Society Annual Meeting. June 3–5 2026. Nanyang Technological University Singapore.
+Jantarungsee, Tim & Manowang, Woraprat (2026). _The Semantics of Ability Ascribing Modals in Thai_. Southeast Asian Linguistics Society Annual Meeting. June 3–5 2026. Nanyang Technological University Singapore.
 
-Jantarungsee, Tim (2026) Classifier Restrictions as Relevance-Based Inferences. Semantics Workshop in Tokai and Kansai. Nagoya University. 
+Jantarungsee, Tim (2026) _Classifier Restrictions as Relevance-Based Inferences_. Semantics Workshop in Tokai and Kansai. Nagoya University. 
 
-Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2026) Varieties of Selectional Restrictions: the case of ingestion verbs. Theoretical Linguistics at Keio. March 13–16 2026. Keio University, Tokyo, Japan
+Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2026) _Varieties of Selectional Restrictions: the case of ingestion verbs_. Theoretical Linguistics at Keio. March 13–16 2026. Keio University, Tokyo, Japan.
 
-Jantarungsee, Tim (2025) From Fieldwork to Semantic Theory, the case of Sortal Restrictions. Plenary talk at The Annual Undergraduate Linguistics Association of Great Britain Conference. University College London.  
+Jantarungsee, Tim (2025) _From Fieldwork to Semantic Theory, the case of Sortal Restrictions_. Plenary talk at The Annual Undergraduate Linguistics Association of Great Britain Conference. University College London, London.  
 
-Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2025) Selectional restriction in Mlabri ingestion verbs. Triple A. September 10–12 2025. Tokyo University of Foregin Studies, Tokyo, Japan.
+Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2025) _Selectional restriction in Mlabri ingestion verbs_. Triple A. September 10–12 2025. Tokyo University of Foregin Studies, Tokyo, Japan.
 
-Jantarungsee, Tim (2025) Non-Presuppositional Sortal Restrictions. Research Seminar talk at National University Singapore. 
+Jantarungsee, Tim (2025) _Non-Presuppositional Sortal Restrictions_. Research Seminar talk at National University Singapore. 
 
-Mucha, Anne & Amaechi, Mary & Uegaki, Wataru & Jantarungsee, Tim (2024) Disjunction with additives. Sinn und Bedeutung 29. 17th-19th September 2024. Consorzio Universitario Mediterraneo Orientale.
+Mucha, Anne & Amaechi, Mary & Uegaki, Wataru & Jantarungsee, Tim (2024) _Disjunction with additives_. Sinn und Bedeutung 29. 17th-19th September 2024. Consorzio Universitario Mediterraneo Orientale.
 
-Jantarungsee, Tim (2024) Issues in Field Semantics. Research Seminar talk at Tohoku University.
+Jantarungsee, Tim (2024) _Issues in Field Semantics_. Research Seminar talk at Tohoku University.
 
-Jantarungsee, Tim (2023) Tense, Aspect and Modality in Mlabri. Southeast Asian Linguistics Society 32nd Annual Meeting. 16-18th May 2023. Chiang Mai University.
+Jantarungsee, Tim (2023) _Tense, Aspect and Modality in Mlabri_. Southeast Asian Linguistics Society 32nd Annual Meeting. 16-18th May 2023. Chiang Mai University.
 
-Jantarungsee, Tim (2021) Serial Verb Constructions in Thai: A Role and Reference Grammar Approach. Undergraduate Linguistics Association of Great Britain Conference. 16-18th April 2021. University of Aberdeen.
+Jantarungsee, Tim (2021) _Serial Verb Constructions in Thai: A Role and Reference Grammar Approach_. Undergraduate Linguistics Association of Great Britain Conference. 16-18th April 2021. University of Aberdeen.
 
 
-Published stuff:
+**Published stuff:**
 
-Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). Disjunction with additives. Proceedings of Sinn und Bedeutung 29.
+Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). _Disjunction with additives_. Proceedings of Sinn und Bedeutung 29.
 
 
 ## Teaching
