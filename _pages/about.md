@@ -16,7 +16,7 @@ My core interests are formal semantics + pragmatics and endangered language docu
 On the theoretical side, I work mostly on formal explanatory theories for backgrounded inferences (e.g., presuppositions, conventional implicatures...) and modality (e.g., ability ascibing modals, conditionals...). 
 
 On the fieldwork side, I work on endangered languages in East and South-East Asia. More specifically:  
-**Mlabri language** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Thailand;  
+**Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Thailand;  
 **Varieties of Yaeyaman** - critically endangered languages spoken by indigenous communities in Okinawa. 
 
 I'm naively interested in other related sub-fields such as philosophy of language, decolonial linguistics, and sociocultural anthropology.
