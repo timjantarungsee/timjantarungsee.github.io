@@ -5,7 +5,7 @@ author_profile: false
 ---
 ## Research
 
-**Presented stuff: **
+**Presented stuff:** 
 
 Jantarungsee, Tim & Manowang, Woraprat (2026). _The Semantics of Ability Ascribing Modals in Thai_. Southeast Asian Linguistics Society Annual Meeting. June 3–5 2026. Nanyang Technological University Singapore.
 
