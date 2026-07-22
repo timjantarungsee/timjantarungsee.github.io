@@ -9,19 +9,19 @@ author_profile: false
 
 Jantarungsee, Tim & Manowang, Woraprat (2026). _The Semantics of Ability Ascribing Modals in Thai_. Southeast Asian Linguistics Society Annual Meeting. June 3–5 2026. Nanyang Technological University Singapore.
 
-Jantarungsee, Tim (2026) _Classifier Restrictions as Relevance-Based Inferences_. Semantics Workshop in Tokai and Kansai. Nagoya University. 
+Jantarungsee, Tim (2026) _Classifier Restrictions as Relevance-Based Inferences_. Semantics Workshop in Tokai and Kansai. Nagoya University. May 10.
 
-Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2026) _Varieties of Selectional Restrictions: the case of ingestion verbs_. Theoretical Linguistics at Keio. March 13–16 2026. Keio University, Tokyo, Japan.
+Jantarungsee, Tim & Davis, Christopher & Sudo, Yasutada (2026) _Varieties of Selectional Restrictions: the case of ingestion verbs_. Theoretical Linguistics at Keio. March 13–16 2026. Keio University, Tokyo, Japan.
 
-Jantarungsee, Tim (2025) _From Fieldwork to Semantic Theory, the case of Sortal Restrictions_. Plenary talk at The Annual Undergraduate Linguistics Association of Great Britain Conference. University College London, London.  
+Jantarungsee, Tim (2025) _From Fieldwork to Semantic Theory, the case of Sortal Restrictions_. Plenary talk at The Annual Undergraduate Linguistics Association of Great Britain Conference. April 10-12 2025. University College London, London.  
 
-Jantarungsee, Tim, Christopher Davis & Sudo, Yasutada (2025) _Selectional restriction in Mlabri ingestion verbs_. Triple A. September 10–12 2025. Tokyo University of Foregin Studies, Tokyo, Japan.
+Jantarungsee, Tim & Davis, Christopher & Sudo, Yasutada (2025) _Selectional restriction in Mlabri ingestion verbs_. Triple A. September 10–12 2025. Tokyo University of Foregin Studies, Tokyo, Japan.
 
-Jantarungsee, Tim (2025) _Non-Presuppositional Sortal Restrictions_. Research Seminar talk at National University Singapore. 
+Jantarungsee, Tim (2025) _Non-Presuppositional Sortal Restrictions_. Research Seminar talk at National University Singapore. August 26. 
 
 Mucha, Anne & Amaechi, Mary & Uegaki, Wataru & Jantarungsee, Tim (2024) _Disjunction with additives_. Sinn und Bedeutung 29. 17th-19th September 2024. Consorzio Universitario Mediterraneo Orientale.
 
-Jantarungsee, Tim (2024) _Issues in Field Semantics_. Research Seminar talk at Tohoku University.
+Jantarungsee, Tim (2024) _Issues in Field Semantics_. Research Seminar talk at Tohoku University. July 8.
 
 Jantarungsee, Tim (2023) _Tense, Aspect and Modality in Mlabri_. Southeast Asian Linguistics Society 32nd Annual Meeting. 16-18th May 2023. Chiang Mai University.
 
