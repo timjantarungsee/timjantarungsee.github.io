@@ -11,7 +11,7 @@ I'm a Linguistics PhD Student at University College London funded by the LAHP-AH
 
 My core interests are formal semantics + pragmatics and endangered language documentation: 
 
-On the theoretical side, I work mostly on formal explanatory theories for backgrounded meaning (presuppositions, conventional implicatures) and modality (ability modals, conditionals). 
+On the theoretical side, I work mostly on formal explanatory theories for backgrounded inferences (e.g., presuppositions, conventional implicatures...) and modality (ability modals, conditionals...). 
 
 On the fieldwork side, I work on endangered languages in East and South-East Asia, more specifically documenting and analysing semantic phenomena in Mlabri (Austro-Asiatic) and Yaeyaman (Ryukyuan). 
 
