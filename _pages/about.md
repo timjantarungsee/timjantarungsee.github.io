@@ -13,14 +13,15 @@ From 2026 I will be based at the National Institute for Japanese Language and Li
 
 My core interests are **formal semantics + pragmatics** and **endangered language documentation**: 
 
-On the theoretical side, I work mostly on formal explanatory theories and puzzles for backgrounded inferences (e.g., presuppositions, conventional implicatures...) and modality (e.g., ability ascibing modals, conditionals...) as well as lexical semantics. 
+On the theoretical side, I have worked on formal explanatory theories and puzzles for backgrounded inferences (e.g., presuppositions, conventional implicatures...), modality (e.g., ability ascibing modals, conditionals...), focus, and lexical semantics. 
 
-On the fieldwork side, I work on endangered languages in East and South-East Asia, ranging from preparing a full descriptive grammar to postulating theories to account for certain semantic phenomena. The specific languages I conduct fieldwork on are:
+On the fieldwork side, I work on endangered languages in East and South-East Asia, with work ranging from preparing a full descriptive grammar to postulating theories to account for certain semantic phenomena. The languages I do fieldwork on are: 
 
-**Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Thailand.    
-**Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in Okinawa. 
+**Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Thailand.   
 
-I'm also interested in related sub-fields such as philosophy of language, mathmatical methods in linguistics, decolonial linguistics, and sociocultural anthropology.
+**Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. 
+
+I'm also interested in related sub-fields such as philosophy of language, mathematical methods in linguistics, de-colonial linguistics, and sociocultural anthropology.
 
 ## Contact
 Email me at t.jantarungsee [AT] ucl.ac.uk
