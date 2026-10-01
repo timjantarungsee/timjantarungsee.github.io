@@ -25,9 +25,9 @@ Mucha, Anne & Amaechi, Mary & Uegaki, Wataru & Jantarungsee, Tim (2024). _Disjun
 
 Jantarungsee, Tim (2024). _Issues in Field Semantics_. Research Seminar talk at Tohoku University, Japan. July 8 2024.
 
-Jantarungsee, Tim (2023). _Tense, Aspect and Modality in Mlabri_. Southeast Asian Linguistics Society (SEALS) 32nd Annual Meeting. 16-18th May 2023. Chiang Mai University, Chiang Mai, Thailand.
+Jantarungsee, Tim (2023). _Tense, Aspect and Modality in Mlabri_. Southeast Asian Linguistics Society (SEALS) 32nd Annual Meeting. 16--18th May 2023. Chiang Mai University, Chiang Mai, Thailand.
 
-Jantarungsee, Tim (2021). _Serial Verb Constructions in Thai: A Role and Reference Grammar Approach_. Undergraduate Linguistics Association of Great Britain (ULAB) Conference. 16-18th April 2021. University of Aberdeen.
+Jantarungsee, Tim (2021). _Serial Verb Constructions in Thai: A Role and Reference Grammar Approach_. Undergraduate Linguistics Association of Great Britain (ULAB) Conference. 16--18th April 2021. University of Aberdeen.
 
 
 **Published stuff:**
@@ -47,8 +47,8 @@ I have also created and provided guest lecturers and tutorials titled **Field Se
 
 I was nominated for the UCL Teaching Excellence Award. 2024-2025. 
 
-I have taught the following short courses at UCL (intermediate - advanced level):  
+I have taught the following short courses at UCL (intermediate -- advanced level):  
 2023 Intensional Semantics  
 2025 Presupposition
 
-In 2023-2024 I ran a bi-weekly reading+research group on everything Field Linguistics related.
+In 2023-2024 I ran a bi-weekly reading+research group on everything field linguistics related.
