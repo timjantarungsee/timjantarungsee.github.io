@@ -20,7 +20,7 @@ On the fieldwork side, I work on endangered languages in East and South-East Asi
 
 **Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
 
-**Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. I started working on these languages this year with the help of Christopher Davis. 
+**Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. I started working on these languages this year with the help and guidance of Christopher Davis. 
 
 I'm also interested in related sub-fields such as **philosophy of language**, **mathematical methods in linguistics**, **de-colonial linguistics**, and **sociocultural anthropology**.
 
