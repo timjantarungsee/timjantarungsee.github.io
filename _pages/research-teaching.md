@@ -3,7 +3,7 @@ permalink: /research-teaching/
 title: "Research & Teaching"
 author_profile: false
 ---
-## Research
+## Research Interests
 
 Core interests: **formal semantics + pragmatics** and **endangered language documentation**: 
 
@@ -20,7 +20,7 @@ I'm also interested in related sub-fields such as **philosophy of language**, **
 
 
 
-**Presented stuff:** 
+## Presented Stuff
 
 Davis, Christopher & Jantarungsee, Tim & Sudo, Yasutada (2026). _How to Build a Modal: A Semantic Typology of Conditional Evaluative Constructions_. Logic and Engineering of Natural Language Semantics 22 (LENLS). November 26--28 2026. Kobe University, Kobe, Japan. 
 
@@ -45,7 +45,7 @@ Jantarungsee, Tim (2023). _Tense, Aspect and Modality in Mlabri_. Southeast Asia
 Jantarungsee, Tim (2021). _Serial Verb Constructions in Thai: A Role and Reference Grammar Approach_. Undergraduate Linguistics Association of Great Britain (ULAB) Conference. 16--18th April 2021. University of Aberdeen.
 
 
-**Published stuff:**
+## Published Stuff
 
 Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). _Disjunction with additives_. Proceedings of Sinn und Bedeutung 29.
 
