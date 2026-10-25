@@ -12,17 +12,5 @@ I'm a LAHP-AHRC funded Linguistics PhD Student at University College London supe
 From 2026 I will be based at the National Institute for Japanese Language and Linguistics in Tokyo working on a UKRI funded project with Christopher Davis. 
 
 
-My core interests are **formal semantics + pragmatics** and **endangered language documentation**: 
-
-On the theoretical side, I have worked on formal explanatory theories and puzzles for **backgrounded inferences** (e.g., presuppositions, conventional implicatures...), **modality** (e.g., ability ascibing modals, conditionals...), **focus**, and **lexical semantics**. 
-
-On the fieldwork side, I work on endangered languages in East and South-East Asia, the languages I do fieldwork on are: 
-
-**Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
-
-**Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. I started working on these languages this year with the help and guidance of Christopher Davis. 
-
-I'm also interested in related sub-fields such as **philosophy of language**, **mathematical methods in linguistics**, **de-colonial linguistics**, and **sociocultural anthropology**.
-
 ## Contact
 Email me at t.jantarungsee [AT] ucl.ac.uk
