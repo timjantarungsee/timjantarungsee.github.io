@@ -5,11 +5,11 @@ author_profile: false
 ---
 ## Research
 
-core interests: **formal semantics + pragmatics** and **endangered language documentation**: 
+Core interests: **formal semantics + pragmatics** and **endangered language documentation**: 
 
 On the theoretical side, I have worked on formal explanatory theories and puzzles for **backgrounded inferences** (e.g., presuppositions, conventional implicatures...), **modality** (e.g., ability ascibing modals, conditionals...), **focus**, and **lexical semantics**. 
 
-On the fieldwork side, I do a variety of work on endangered languages in East and South-East Asia: 
+On the fieldwork side, I do a variety of work on endangered/understudied languages in East and South-East Asia: 
 
 **Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
 
