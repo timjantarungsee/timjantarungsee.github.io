@@ -51,7 +51,7 @@ Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). _Disjunctio
 
 
 ## Teaching
-I am the head organiser for the inaugural Asian Semantics Society Summer School, held at Chulalongkorn University in Bangkok Thailand in August 2026. The core idea behind this school is to provide free formal training to students based in Asia that otherwise would be unable to attend more expensive summer schools in the west. It was a great success :) 
+I am the head organiser for the inaugural [Asian Semantics Society Summer School](https://semanticsasia.wordpress.com/summer_school/), held at Chulalongkorn University in Bangkok Thailand in August 2026. The core idea behind this school is to provide free formal training to students based in Asia that otherwise would be unable to attend more expensive summer schools in the west. It was a great success :) 
 
 I have TA'd for the following courses at UCL:  
 PLIN0001 (2023, 2024, 2025) Introduction to Semantics and Pragmatics A   
