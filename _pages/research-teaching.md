@@ -7,11 +7,11 @@ author_profile: false
 
 Core interests: **formal semantics + pragmatics** and **endangered language documentation**: 
 
-On the theoretical side, I have worked on formal explanatory theories and puzzles for **backgrounded inferences** (e.g., presuppositions, conventional implicatures...), **modality** (e.g., ability ascibing modals, conditionals...), **focus**, and **lexical semantics**. 
+On the theoretical side, I have worked on formal explanatory theories and puzzles for **backgrounded inferences** (e.g., presuppositions, conventional implicatures...), **modality** (e.g., ability ascribing modals, conditional evaluative constructions...), **focus**, and **lexical semantics**. 
 
 On the fieldwork side, I do a variety of work on endangered/understudied languages in East and South-East Asia: 
 
-**Mlabri** - spoken by ~300 post-nomadic hunter gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
+**Mlabri** - spoken by ~300 post-nomadic hunter-gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
 
 **Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. I started working on these languages this year with the help and guidance of Christopher Davis. 
 
@@ -24,7 +24,7 @@ I'm also interested in related sub-fields such as **philosophy of language**, **
 
 Davis, Christopher & Jantarungsee, Tim & Sudo, Yasutada (2026). _How to Build a Modal: A Semantic Typology of Conditional Evaluative Constructions_. Logic and Engineering of Natural Language Semantics 22 (LENLS). November 26--28 2026. Kobe University, Kobe, Japan. 
 
-Jantarungsee, Tim & Manowang, Woraprat (2026). _The Semantics of Ability Ascribing Modals in Thai_. Southeast Asian Linguistics Society (SEALS) 35th Annual Meeting. June 3–5 2026. Nanyang Technological University, Singapore.
+Jantarungsee, Tim & Manowang, Woraprat (2026). _The Semantics of Ability Ascribing Modals in Thai_. Southeast Asian Linguistics Society (SEALS) 35th Annual Meeting. June 3–-5 2026. Nanyang Technological University, Singapore.
 
 Jantarungsee, Tim (2026) _Classifier Restrictions as Relevance-Based Inferences_. Semantics Workshop in Tokai and Kansai. May 10 2026. Nagoya University, Nagoya, Japan. 
 
@@ -34,7 +34,7 @@ Jantarungsee, Tim & Davis, Christopher & Sudo, Yasutada (2025). _Selectional res
 
 Jantarungsee, Tim (2025). _Non-Presuppositional Sortal Restrictions_. Research Seminar talk at National University Singapore. August 26 2026. 
 
-Jantarungsee, Tim (2025). _From Fieldwork to Semantic Theory, the case of Sortal Restrictions_. Plenary talk at The Annual Undergraduate Linguistics Association of Great Britain (ULAB) Conference. April 10-12 2025. University College London, London.  
+Jantarungsee, Tim (2025). _From Fieldwork to Semantic Theory, the case of Sortal Restrictions_. Plenary talk at The Annual Undergraduate Linguistics Association of Great Britain (ULAB) Conference. April 10--12 2025. University College London, London.  
 
 Mucha, Anne & Amaechi, Mary & Uegaki, Wataru & Jantarungsee, Tim (2024). _Disjunction with additives_. Sinn und Bedeutung (SuB) 29. 17th--19th September 2024. Consorzio Universitario Mediterraneo Orientale.
 
@@ -51,14 +51,14 @@ Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). _Disjunctio
 
 
 ## Teaching
-I am the head organiser for the inaugural [Asian Semantics Society Summer School](https://semanticsasia.wordpress.com/summer_school/), held at Chulalongkorn University in Bangkok Thailand in August 2026. The core idea behind this school is to provide free formal training to students based in Asia that otherwise would be unable to attend more expensive summer schools in the west. It was a great success :) 
+I am the head organiser for the [Asian Semantics Society Summer School](https://semanticsasia.wordpress.com/summer_school/). We had our first summer school hosted at Chulalongkorn University in Bangkok Thailand in August 2026. The core idea behind this school is to provide free formal training to students based in Asia that otherwise would be unable to attend more expensive summer schools in the west. It was a great success :) 
 
 I have TA'd for the following courses at UCL:  
 PLIN0001 (2023, 2024, 2025) Introduction to Semantics and Pragmatics A   
 PLIN0045 (2024, 2025) Semantics and Pragmatics I  
 PLIN0081 (2024) Semantics and Pragmatics II
 
-I have also created and provided guest lecturers and tutorials titled **Field Semantics** and **The Semantics of Time** for undergraduate and masters semantics/pragmatics courses.
+I have also created and provided guest lectures and tutorials titled **Field Semantics** and **The Semantics of Time** for undergraduate and masters semantics/pragmatics courses.
 
 I was nominated for the UCL Teaching Excellence Award. 2024-2025. 
 
