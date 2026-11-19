@@ -5,15 +5,15 @@ author_profile: false
 ---
 ## Research Interests
 
-Core interests: **formal semantics + pragmatics** and **endangered language documentation**: 
+**Core interests:** Formal semantics + pragmatics and endangered language documentation: 
 
-On the theoretical side, I have worked on formal explanatory theories and puzzles for **backgrounded inferences** (e.g., presuppositions, conventional implicatures...), **modality** (e.g., ability ascribing modals, conditional evaluative constructions...), **focus**, and **lexical semantics**. 
+**Theoretical Side:** I have worked on formal explanatory theories and puzzles for backgrounded inferences (e.g., presuppositions, conventional implicatures...), modality (e.g., ability ascribing modals, conditional evaluative constructions...), focus, and lexical semantics. 
 
-On the fieldwork side, I do a variety of work on endangered/understudied languages in East and South-East Asia: 
+**Fieldwork side:** I do a variety of long-term work on endangered/understudied languages in East and South-East Asia: 
 
-**Mlabri** - spoken by ~300 post-nomadic hunter-gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
+*Mlabri* - spoken by ~300 post-nomadic hunter-gatherers scattered around rural areas of Northern Thailand. I have been working continually with the community since my MScR days. There is barely any research, so I am preparing a grammar sketch from the ground up.     
 
-**Varieties of Yaeyaman** - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. I started working on these languages this year with the help and guidance of Christopher Davis. 
+*Varieties of Yaeyaman* - a group of critically endangered languages/dialects spoken by indigenous communities in the Yaeyama Islands, Okinawa. I started working on these languages this year with the help and guidance of Christopher Davis. 
 
 I'm also interested in related sub-fields such as **philosophy of language**, **mathematical methods in linguistics**, **de-colonial linguistics**, and **sociocultural anthropology**.
 
@@ -47,7 +47,7 @@ Jantarungsee, Tim (2021). _Serial Verb Constructions in Thai: A Role and Referen
 
 ## Published Stuff
 
-Jantarungsee, Tim & Woraprat, Manowang. Decomposing ability ascribing modals and knowledge-how constructions in Thai. Proceedings of SEALS35. [Under Revision]
+Jantarungsee, Tim & Woraprat, Manowang. _Decomposing ability ascribing modals and knowledge-how constructions in Thai_. Proceedings of SEALS35. [Under Revision]
 
 Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). _Disjunction with additives_. Proceedings of Sinn und Bedeutung 29.
 
