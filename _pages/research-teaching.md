@@ -47,6 +47,8 @@ Jantarungsee, Tim (2021). _Serial Verb Constructions in Thai: A Role and Referen
 
 ## Published Stuff
 
+Jantarungsee, Tim & Woraprat, Manowang. Decomposing ability ascribing modals and knowledge-how constructions in Thai. Proceedings of SEALS35. [Under Revision]
+
 Mucha, Anne, Wataru Uegaki, Mary Amaechi & Tim Jantarungsee. (2024). _Disjunction with additives_. Proceedings of Sinn und Bedeutung 29.
 
 
