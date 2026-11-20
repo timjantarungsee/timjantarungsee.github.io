@@ -4,7 +4,7 @@ title: "Food"
 author_profile: false
 ---
 
-I am extremely interested in food history and the relationship between food, climate, culture and language. Here are some particularly tasty and/or interesting things I have eaten:
+I am very interested in the relationship between food and history, climate, culture and language. Here are some of the particularly tasty and/or interesting things I have eaten in the last 2-3 years:
 
 <style>
 .food-grid {
@@ -61,6 +61,11 @@ I am extremely interested in food history and the relationship between food, cli
   <div class="food-card">
     <img src="/images/argentinian_chicken.jpg" alt="argentinian chicken">
     <p>Argentinian chicken. Chicken cooked by Argentinian returnees in Okinawa, Japan</p>
+  </div>
+  
+  <div class="food-card">
+    <img src="/images/dog.jpg" alt="dog">
+    <p>Bosintang (dog soup) in Seoul, Korea.</p>
   </div>
 
   <div class="food-card">
@@ -136,6 +141,76 @@ I am extremely interested in food history and the relationship between food, cli
   <div class="food-card">
     <img src="/images/crab_soba.jpg" alt="crab soba">
     <p>Freshly caught crab soba eaten during fieldwork in Hatoma Island, Okinawa, Japan</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/yemen.jpg" alt="yemen">
+    <p>Maraq (Yemeni lamb stew) from a restaurant in London, probably one of my favourite restaurants there.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/whale.png" alt="whale">
+    <p>Kujira (Whale) in Tokyo, Japan.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/tohoku_beer.jpg" alt="tohoku beer">
+    <p>Tohoku University in Japan has its own beer?</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/sicily_1.jpg" alt="sicily">
+    <p>A famous Sicilian pastry (I forgot the name someone please remind me). Given to me at a conference in Noto, Sicily.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/serbian.jpg" alt="serbian">
+    <p>Serbian grill at a restaurant in London.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/laab.jpg" alt="laab">
+    <p>Northern Thai style raw laab (distinct from North-Eastern style laab). Nan, Thailand.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/hmong.jpg" alt="hmong">
+    <p>Freshly slaughtered and grilled black chicken with purple rice Hmong style. Cooked for us by our White Hmong friend during fieldwork in Nan, Thailand.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/goat_soup.jpg" alt="goat soup">
+    <p>Yagi Jiru (goat soup). Another great Okinawan delicacy.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/ayam.jpg" alt="ayam">
+    <p>Soto Ayam (chicken soup). A great spot in Jakarta, Indonesia.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/ass.jpg" alt="ass">
+    <p>Jeh-o Chula is a popular (and touristy) restaurant in Bangkok near Chulalongkorn University. We went there one night after classes during the Asian Semantics Society Summer School 2026.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/beef_soup.jpg" alt="beef soup">
+    <p>Niuroumian (Braised beef noodle soup). A popular spot in Taipei, Taiwan.</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/chan_ramen.jpg" alt="chan ramen">
+    <p>Chan-kei ramen. A really nice style of chuuka soba @ Tomochin in Tokyo, Japan</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/dovga.jpg" alt="dovga">
+    <p>Dovga. A yoghurt drink made with a bunch of herbs. We had this at an Azerbaijani restaurant in London</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/fish_sandwich.jpg" alt="fish sandwich">
+    <p>Balık ekmek (fish sandwich). Really nice treat in Istanbul, Turkey.</p>
   </div>
 
 </div>
