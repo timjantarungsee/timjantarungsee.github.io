@@ -34,13 +34,13 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
 <div class="food-grid">
 
   <div class="food-card">
-    <img src="/images/python.png" alt="python">
+    <img src="/images/python.png" alt="python" style="object-fit: contain;">
     <p>Reticulated python. Caught and boiled in a stew during fieldwork in Nan, Thailand.</p>
   </div>
 
   <div class="food-card">
     <img src="/images/ribs.png" alt="ribs">
-    <p>Galbijjim (spicy braised short rib). A well known dish in Daegu, Korea.</p>
+    <p>Galbijjim (spicy braised short rib). A well known local dish, super garlicky and tasty, Daegu, Korea.</p>
   </div>
 
   <div class="food-card">
@@ -119,7 +119,7 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
   </div>
 
   <div class="food-card">
-    <img src="/images/reindeer.jpg" alt="reindeer">
+    <img src="/images/reindeer.jpg" alt="reindeer" style="object-fit: contain;">
     <p>Reindeer meat hot dog, Tromso, Norway</p>
   </div>
 
@@ -130,12 +130,12 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
 
   <div class="food-card">
     <img src="/images/boar_soup.jpg" alt="boar soup">
-    <p>Freshly caught wild boar soup, Hatoma Island, Okinawa, Japan</p>
+    <p>Freshly caught wild boar soup eaten during fieldwork in Hatoma Island, Okinawa, Japan</p>
   </div>
 
   <div class="food-card">
     <img src="/images/crab_soba.jpg" alt="crab soba">
-    <p>Crab soba, Hatoma Island, Okinawa, Japan</p>
+    <p>Freshly caught crab soba eaten during fieldwork in Hatoma Island, Okinawa, Japan</p>
   </div>
 
 </div>
