@@ -35,47 +35,47 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
 
   <div class="food-card">
     <img src="/images/python.png" alt="python">
-    <p>Reticulated python, Nan, Thailand.</p>
+    <p>Reticulated python. Caught and boiled in a stew during fieldwork in Nan, Thailand.</p>
   </div>
 
   <div class="food-card">
     <img src="/images/ribs.png" alt="ribs">
-    <p>Galbijjim (spicy braised short rib), Daegu, Korea.</p>
+    <p>Galbijjim (spicy braised short rib). A well known dish in Daegu, Korea.</p>
   </div>
 
   <div class="food-card">
     <img src="/images/goat.png" alt="goat">
-    <p>Yagi Sashimi (raw goat), Okinawa, Japan.</p>
+    <p>Yagi Sashimi (raw goat). Goat meat is a delicacy in Okinawa, Japan.</p>
   </div>
 
   <div class="food-card">
     <img src="/images/perpeptual_soup.png" alt="perpetual soup">
-    <p>Braised beef noodles, Bangkok, Thailand.</p>
+    <p>Braised beef noodles. Famous stall for having a 'perpetual stew' in Bangkok, Thailand.</p>
   </div>
 
   <div class="food-card">
     <img src="/images/horse.png" alt="horse">
-    <p>Horse meat, Jeju Island, Korea.</p>
+    <p>Horse meat. A delicacy in Jeju Island, Korea.</p>
   </div>
 
   <div class="food-card">
     <img src="/images/argentinian_chicken.jpg" alt="argentinian chicken">
-    <p>Argentinian chicken, Okinawa, Japan</p>
+    <p>Argentinian chicken. Chicken cooked by Argentinian returnees in Okinawa, Japan</p>
   </div>
 
   <div class="food-card">
     <img src="/images/bo_kho.png" alt="bo kho">
-    <p>Bo kho (beef stew) Ho Chi Minh, Vietnam</p>
+    <p>Bo kho (beef stew). Ho Chi Minh, Vietnam</p>
   </div>
 
   <div class="food-card">
     <img src="/images/Nasi_lemak.png" alt="nasi lemak">
-    <p>My favourite Nasi Lemak, Kuala Lumpur, Malaysia</p>
+    <p>My favourite Nasi Lemak stall in Kuala Lumpur, Malaysia</p>
   </div>
 
   <div class="food-card">
     <img src="/images/Peranakan.jpg" alt="peranakan">
-    <p>Ayam buah keluak, Singapore</p>
+    <p>Ayam buah keluak. A dish of the Peranakan people across South-East Asia, Singapore</p>
   </div>
 
   <div class="food-card">
@@ -85,12 +85,12 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
 
   <div class="food-card">
     <img src="/images/Rojak.jpg" alt="rojak">
-    <p>Some kind of Rojak, Kuala Lumpur, Malaysia</p>
+    <p>Some kind of Rojak that I really enjoyed in Kuala Lumpur, Malaysia</p>
   </div>
 
   <div class="food-card">
     <img src="/images/Yaeyama_soba.jpg" alt="yaeyama soba">
-    <p>Yaeyama soba, Okinawa, Japan</p>
+    <p>Yaeyama soba. Extremely popular noodle dish in the Yaeyama islands in Okinawa, Japan</p>
   </div>
 
   <div class="food-card">
@@ -106,6 +106,36 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
   <div class="food-card">
     <img src="/images/himalayan.png" alt="himalayan">
     <p>Tibetan food spread, New York, USA</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/slovenian_sausage.png" alt="slovenian sausage">
+    <p>Kranjska klobasa (slovenian sausage), Lake Bled, Slovenia</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/sannakji.png" alt="sannakji">
+    <p>San-nakji (raw octopus), Busan, Korea</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/reindeer.jpg" alt="reindeer">
+    <p>Reindeer meat hot dog, Tromso, Norway</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/bamboo_worm.jpg" alt="bamboo worm">
+    <p>Bamboo worms, Nan, Thailand</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/boar_soup.jpg" alt="boar soup">
+    <p>Freshly caught wild boar soup, Hatoma Island, Okinawa, Japan</p>
+  </div>
+
+  <div class="food-card">
+    <img src="/images/crab_soba.jpg" alt="crab soba">
+    <p>Crab soba, Hatoma Island, Okinawa, Japan</p>
   </div>
 
 </div>
