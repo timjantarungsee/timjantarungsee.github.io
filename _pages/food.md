@@ -4,7 +4,7 @@ title: "Food"
 author_profile: false
 ---
 
-I am extremely interested in food history and the relationship between food, climate, culture and language.. Here are some particularly tasty and/or interesting things I have eaten:
+I am extremely interested in food history and the relationship between food, climate, culture and language. Here are some particularly tasty and/or interesting things I have eaten:
 
 <style>
 .food-grid {
