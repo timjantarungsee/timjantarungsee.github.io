@@ -4,4 +4,6 @@ title: "Food"
 author_profile: false
 ---
 
-food
+I move around a lot. Here are some things I have eaten: 
+
+
