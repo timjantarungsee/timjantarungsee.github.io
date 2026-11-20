@@ -95,7 +95,7 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
 
   <div class="food-card">
     <img src="/images/Yamaokaya.jpg" alt="yamaokaya">
-    <p>Tokusei miso ramen @ Yamaokaya, Ibarakai, Japan</p>
+    <p>Tokusei miso ramen @ Yamaokaya, Ibaraki, Japan</p>
   </div>
 
   <div class="food-card">
