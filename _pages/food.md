@@ -4,7 +4,7 @@ title: "Food"
 author_profile: false
 ---
 
-I move around a lot. Here are some things I have eaten:
+I move around a lot. Here are some particularly tasty and/or interesting things I have eaten:
 
 <style>
 .food-grid {
