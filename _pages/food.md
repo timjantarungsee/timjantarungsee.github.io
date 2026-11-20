@@ -40,7 +40,7 @@ I move around a lot. Here are some particularly tasty and/or interesting things 
 
   <div class="food-card">
     <img src="/images/ribs.png" alt="ribs">
-    <p>Galbijjim (braised short rib), Daegu, Korea.</p>
+    <p>Galbijjim (spicy braised short rib), Daegu, Korea.</p>
   </div>
 
   <div class="food-card">
