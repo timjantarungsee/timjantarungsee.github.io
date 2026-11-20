@@ -4,4 +4,4 @@ title: "Misc"
 author_profile: false
 ---
 
-
+[food](/food/)
