@@ -7,4 +7,4 @@ author_profile: false
 I move around a lot. Here are some things I have eaten: 
 
 
-<img src="/images/fieldwork-hatoma.jpg" alt="Fieldwork on Hatoma" width="200">
+<img src="/images/python.png" alt="python" width="200">
