@@ -74,6 +74,11 @@ I am very interested in the relationship between food and history, climate, cult
   </div>
 
   <div class="food-card">
+    <img src="/images/slop.png" alt="slop">
+    <p>'Slop bowls' we would bring with us while doing fieldwork in Nan, Thailand.</p>
+  </div>
+
+  <div class="food-card">
     <img src="/images/Nasi_lemak.png" alt="nasi lemak">
     <p>My favourite Nasi Lemak stall in Kuala Lumpur, Malaysia</p>
   </div>
