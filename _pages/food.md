@@ -74,7 +74,7 @@ I am very interested in the relationship between food and history, climate, cult
   </div>
 
   <div class="food-card">
-    <img src="/images/slop.png" alt="slop">
+    <img src="/images/slop.jpg" alt="slop">
     <p>'Slop bowls' we would bring with us while doing fieldwork in Nan, Thailand.</p>
   </div>
 
