@@ -22,7 +22,7 @@ I'm also interested in related sub-fields such as **philosophy of language**, **
 
 ## Presented Stuff
 
-Davis, Christopher & Jantarungsee, Tim & Sudo, Yasutada (2026). _How to Build a Modal: A Semantic Typology of Conditional Evaluative Constructions_. Logic and Engineering of Natural Language Semantics 22 (LENLS). November 26--28 2026. Kobe University, Kobe, Japan. 
+Jantarungsee, Tim & Davis, Christopher & Sudo, Yasutada (2026). _How to Build a Modal: A Semantic Typology of Conditional Evaluative Constructions_. Logic and Engineering of Natural Language Semantics 22 (LENLS). November 26--28 2026. Kobe University, Kobe, Japan. 
 
 Jantarungsee, Tim & Manowang, Woraprat (2026). _The Semantics of Ability Ascribing Modals in Thai_. Southeast Asian Linguistics Society (SEALS) 35th Annual Meeting. June 3–-5 2026. Nanyang Technological University, Singapore.
 
