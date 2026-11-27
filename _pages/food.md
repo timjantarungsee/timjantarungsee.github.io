@@ -4,7 +4,7 @@ title: "Food"
 author_profile: false
 ---
 
-I am very interested in the relationship between food and history, climate, culture and language. The Language of Food[https://web.stanford.edu/~jurafsky/thelanguageoffood.html] is one of my favourite books! Here are some of the particularly tasty and/or interesting things I have eaten in the last 2-3 years:
+I am very interested in the relationship between food and history, climate, culture and language. [The Language of Food](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) is one of my favourite books! Here are some of the particularly tasty and/or interesting things I have eaten in the last 2-3 years:
 
 <style>
 .food-grid {
